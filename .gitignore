@@ -1,0 +1,30 @@
+# Log files
+screenlog.*
+*.log
+*.err
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+.venv/
+python_bot/
+
+# Node.js
+node_modules/
+.npm/
+dist/
+
+# Unrelated project
+kinenbi-orochi-bot/
+
+# OS generated files
+.DS_Store
+*.png
+
+# Backups
+.git_bak/
+
+# Large files
+*.patch
